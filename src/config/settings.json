@@ -1,0 +1,7 @@
+{
+  "apiKeyEnvVar": "YOUTUBE_API_KEY",
+  "maxVideosPerChannel": 50,
+  "requestsPerSecond": 5,
+  "inputFile": "data/input.example.json",
+  "outputFile": "data/output.sample.json"
+}
