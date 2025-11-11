@@ -1,0 +1,22 @@
+{
+  "name": "youtube-channels-video-scraper",
+  "version": "1.0.0",
+  "description": "A fast and reliable YouTube data extraction tool that collects video and channel information from any public YouTube channel.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [
+    "youtube",
+    "scraper",
+    "channels",
+    "videos",
+    "automation"
+  ],
+  "author": "Bitbash",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.0"
+  }
+}
