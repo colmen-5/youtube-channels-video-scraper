@@ -1,0 +1,25 @@
+{
+  "generated_at": "2024-01-01T12:00:00.000Z",
+  "total_videos": 1,
+  "videos": [
+    {
+      "video_id": "TfxGyz3SBAw",
+      "video_title": "How I made $12,000 using ICT Concepts | Weekly Review",
+      "video_url": "https://www.youtube.com/watch?v=TfxGyz3SBAw",
+      "views": 11305,
+      "likes": 571,
+      "video_thumbnail": "https://i.ytimg.com/vi/TfxGyz3SBAw/hqdefault.jpg",
+      "video_duration": "36 minutes, 25 seconds",
+      "published_time": "2023-08-14T10:00:00Z",
+      "description_snippet": "Reviewing my trades from last week as I had my best performance on funded accounts ever.",
+      "channel_title": "Tanja Trades",
+      "channel_handle": "@TanjaTrades",
+      "channel_url": "https://www.youtube.com/@TanjaTrades",
+      "channel_info": {
+        "channel_title": "Tanja Trades",
+        "channel_handle": "@TanjaTrades",
+        "channel_url": "https://www.youtube.com/@TanjaTrades"
+      }
+    }
+  ]
+}
